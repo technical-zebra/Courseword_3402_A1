@@ -29,3 +29,7 @@ It should be obvious from this how/where they are used on your site.
         <li>Joomla site: System - Add Custom CSS - <a href="https://extensions.joomla.org/extension/add-custom-css/">URL</a> - Provide options to add custom
             css files to certain webpage.</li>
     </ul>
+ 
+## Reflection and Insights
+Describe your experience using the two different CMSs.<br>
+What have you learned through this assignment regarding the different systems?
