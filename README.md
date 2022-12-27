@@ -1,16 +1,10 @@
 # Courseword_3402_A1
 
 
-# WordPress live demo
-[http://wordpress.argus.x10.mx/wp/](http://wordpress.argus.x10.mx/wp/)
-
-
-# Joomla live demo
-[http://joomla.argus.x10.mx/joomla30/](http://joomla.argus.x10.mx/joomla30/)
-
-
-## Video link
-[https://youtu.be/8sakNzSVJ-g](https://youtu.be/8sakNzSVJ-g)
+## Links
+Youtube video: [https://youtu.be/8sakNzSVJ-g](https://youtu.be/8sakNzSVJ-g) <br>
+WordPress live demo: [http://wordpress.argus.x10.mx/wp/](http://wordpress.argus.x10.mx/wp/) <br>
+Joomla live demo: [http://joomla.argus.x10.mx/joomla30/](http://joomla.argus.x10.mx/joomla30/) <br>
 
 
 ## Goal/s
