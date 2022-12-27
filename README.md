@@ -23,9 +23,7 @@ It should be obvious from this how/where they are used on your site.
         <li>WordPress site: NextGEN Gallery- <a href="https://wordpress.org/plugins/nextgen-gallery/">URL</a> - Offers a
             complete WordPress gallery management system and three main gallery styles (slideshow, thumbnail, and
             imagebrowser galleries)</li>
-        <li>WordPress site: Increase Maximum Upload File Size - <a href="https://wordpress.org/plugins/wp-maximum-upload-file-size/">URL</a> - INCREASE UPLOAD FILE SIZE
-            LIMIT TO ANY VALUE WITH ONE CLICK.</li>
-
+        <li>WordPress site: Increase Maximum Upload File Size - <a href="https://wordpress.org/plugins/wp-maximum-upload-file-size/">URL</a> - INCREASE UPLOAD FILE      SIZE LIMIT TO ANY VALUE WITH ONE CLICK.</li>
         <li>Joomla site: TF Bootstrap - <a href="https://extensions.joomla.org/extension/tf-bootstrap/">URL</a> - Enable
             to use Bootstrap5 in Joomla code editor</li>
         <li>Joomla site: System - Add Custom CSS - <a href="https://extensions.joomla.org/extension/add-custom-css/">URL</a> - Provide options to add custom
